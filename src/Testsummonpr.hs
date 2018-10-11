@@ -3,5 +3,5 @@ module Testsummonpr
        ) where
 
 someFunc :: IO ()
-someFunc = putStrLn ("someFunc" :: String)
+someFunc = putStrLn ("someFunc" :: Text)
 
